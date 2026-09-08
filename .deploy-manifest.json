@@ -1,0 +1,2179 @@
+{
+  "commit": "11d49e7ab489014d69d2913b384831724ebeb504",
+  "builtAt": "2026-09-08T10:17:46.942Z",
+  "production": false,
+  "origin": "https://flipio.github.io",
+  "fileCount": 434,
+  "files": [
+    {
+      "path": ".htaccess",
+      "size": 3278,
+      "sha256": "06eeaf6d7403b2dc18be535d29d0e5bb5713cb2f676f37e897229b63c1ad7c26"
+    },
+    {
+      "path": ".nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "size": 8701,
+      "sha256": "45a3936e34f4e5cf373eaa8fe4a7f4b1c3339b6922e01a9edcbda30060cfb8b5"
+    },
+    {
+      "path": "_astro/Base.DQHbvxn-.css",
+      "size": 38706,
+      "sha256": "d89e15918efa9120035d5a92356cd974baf0a40db36cbf2e5988698e3cace7de"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-400-italic.AH1vqu4S.woff",
+      "size": 16012,
+      "sha256": "0fbe68f0ae86850291607fed0654535ca0e4e59774f2083be8e6a2b0838330fe"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-400-italic.D3GtrbRZ.woff2",
+      "size": 12720,
+      "sha256": "109ce34012f204b9794f2fa2e8e6fdff52b156636cd5da86d86ae7142b48aa03"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-400-normal.CVFrM67f.woff",
+      "size": 15696,
+      "sha256": "11a86b7cdc25186a0a119cfc4e9269032ae8b11aa9e70acf98e48ac5d05e390d"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-400-normal.DD2KOZkl.woff2",
+      "size": 12776,
+      "sha256": "0d23162e67528fdc5fe1b12bedc525a69bbdc86d5d9f3c2ee9e9ee459934ecd4"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-500-normal.CyAY5ZLS.woff2",
+      "size": 12920,
+      "sha256": "30aec8d9cdb4ea84534ffcd7c58b0f06069f63dc177b5aafd7438627dfe10fb8"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-500-normal.DkJXBcIH.woff",
+      "size": 15760,
+      "sha256": "77aa93b818437cd94c9b77eb8f06593a7401696bc05af21cb199ec8fa540c706"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-600-normal.C2atO-64.woff2",
+      "size": 13016,
+      "sha256": "012bad3c47fada69f033bab125a60357379d69080ecfd37282e636f8390c6bf9"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-600-normal.FNmA3REe.woff",
+      "size": 15824,
+      "sha256": "bd9271a11ce512935f8eb74d3663cec7b70640917b80eaeaee3acc2804b3f96e"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-400-italic.BEGvmv_3.woff2",
+      "size": 14748,
+      "sha256": "91b622f3d9d90c295a5667852858e85493586e5950a3b6c052dc275e6ea49f77"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-400-italic.C_Uk1MUY.woff",
+      "size": 19136,
+      "sha256": "c144b6b4715551b519a4fa74e9010c212b3891d07778e5ccc462dcea780b2bb9"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-400-normal.DLdKLAvx.woff",
+      "size": 17428,
+      "sha256": "2373fdbd96854b3a6868d3ea36019d0e6f2f48c9990de8f80f0ae867fbaa4a53"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-400-normal.W3Dto7M0.woff2",
+      "size": 13920,
+      "sha256": "02a3bbfd23dfcfac40ad87d8954078cd96f8a85e661fc73617245fe06d2aa4ea"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-500-normal.Yta7XZ9C.woff2",
+      "size": 14096,
+      "sha256": "acab2d007aaa8b005a573cf1389f8f4f35bfb3413e2f6d59af49fbcc3668d925"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-500-normal.lsPpqi9g.woff",
+      "size": 17552,
+      "sha256": "94ff60604efd714cd2da16316554a894e969e9b8e779231921743aff5d51b046"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-600-normal.BMhMHfrj.woff2",
+      "size": 14184,
+      "sha256": "c7e2b743c908a6ce81639cff1d0847f2c8b3d7d7a3ae10cbfa34eb31c1a2b26d"
+    },
+    {
+      "path": "_astro/cormorant-garamond-cyrillic-ext-600-normal.CsIYWmWK.woff",
+      "size": 17620,
+      "sha256": "bfbfeb7171787ae6b6cd710d22dd8620d3d345491278aa5a31c89aeede279eea"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-400-italic.BLh7T8o8.woff",
+      "size": 32888,
+      "sha256": "337d07118277acbf5a0eb19c602aaf917b2485585360f2c7139ce42d9d4e6cc1"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-400-italic.Dc_OZ8oc.woff2",
+      "size": 23660,
+      "sha256": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-400-normal.B-1hWBU7.woff2",
+      "size": 22876,
+      "sha256": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-400-normal.B7YtguxJ.woff",
+      "size": 30980,
+      "sha256": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-500-normal.BsRWmXhO.woff2",
+      "size": 23312,
+      "sha256": "8197bf53615ddc8c423f444c7f0eec63b7fa0ba093fcfbec60dfdd28429b0fc8"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-500-normal.zIXX3Q-H.woff",
+      "size": 31372,
+      "sha256": "314ee3edd5ddcdef5cf2374c1126b8be9f7f1ebd6c5c66a23c237f3b836a3ec1"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-600-normal.2CBVLo0M.woff",
+      "size": 31304,
+      "sha256": "6d837ba78b1d06e83248201bfc5de93b6e1c67aed36820021cff3db9602542c8"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-600-normal.Co1r35X9.woff2",
+      "size": 23396,
+      "sha256": "ae062b6d5ae308e7edf61b28b07b9984bbb6e961b1f34d9b2c2f4389c33f21ea"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-400-italic.BdEzgT7i.woff2",
+      "size": 20284,
+      "sha256": "96ec6109d044a8f2b279937499923fc0435db3e6bd91ce4cb1fd806d566378b9"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-400-italic.CQvLaSWn.woff",
+      "size": 28716,
+      "sha256": "2697e1ecd11cd30adf57e52f7571bf821c92719fd7c471cea1d7a178cf39d3a1"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-400-normal.Drx2k2n9.woff2",
+      "size": 19888,
+      "sha256": "375a088756d1cb10eb91a9a7de18ad5e9858689abe76496dd78e560fef0bbebb"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-400-normal.uvC0WHQr.woff",
+      "size": 27928,
+      "sha256": "751bcaa2bf2f07cb2b03f6c83e548dc254d3161741245fa96b372e78cf4c4055"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-500-normal.CH1kM7og.woff2",
+      "size": 20200,
+      "sha256": "3de1b0f23516d8ff77cc1a5af88b6c19037a375ec52729a8a5633998f58aa609"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-500-normal.DYeaGGzO.woff",
+      "size": 28280,
+      "sha256": "08ef933798b9939e6c79d08b68c0aad8c0024d5ea25c2c1b00da51aa5ffb38c3"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-600-normal.DaBc-lu7.woff2",
+      "size": 20304,
+      "sha256": "4993f7f4feb5e31d94f54e3b11428337a06f0c8c8d9ffef331aabd7e6a81b4c8"
+    },
+    {
+      "path": "_astro/cormorant-garamond-latin-ext-600-normal.Dk3-quAP.woff",
+      "size": 28260,
+      "sha256": "05eb51186a2b5a3df53ee8f4abe5e25c9a01b5f921a858e1814e0794ae582f5e"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-400-italic.BoXDRTEW.woff2",
+      "size": 6764,
+      "sha256": "4a82e13d26b06c46839898021bb511623f9b73779b4ded1ef60e11df2b136426"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-400-italic.CJpMwFnN.woff",
+      "size": 9408,
+      "sha256": "b6c8a02deaec45a9e558be98b4666732041665cccf4779e791d075a8a1992412"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-400-normal.4uxlocMh.woff",
+      "size": 9316,
+      "sha256": "d2eac685abd3003ac60c4a208fe1d2febceba397964db73df656b1d2d62e2b24"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-400-normal.6K-YXo6g.woff2",
+      "size": 6744,
+      "sha256": "eddcd28ffd8e111c669789b2978019359bb67b2e2696e566364fd37133c20a3b"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-500-normal.BZGLGj12.woff2",
+      "size": 6756,
+      "sha256": "f245c41ee20c58be0acd85ac9e3060f8ff9a2dba455892ff37c1e11b9133eda0"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-500-normal.DqXqCC0q.woff",
+      "size": 9332,
+      "sha256": "b981d0af206e554e32a75cd806da1c266576843e6696d5df8d32f43e26935848"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-600-normal.BoXdMtcr.woff2",
+      "size": 6796,
+      "sha256": "5b1d7b7a52c90f436f97008deaf87aba7924bb3cddf1574f11068ff4119c9115"
+    },
+    {
+      "path": "_astro/cormorant-garamond-vietnamese-600-normal.C4HEjEaf.woff",
+      "size": 9420,
+      "sha256": "0866c0b1774f7a7282eac8c668df632c6fb3ed157f0365a571f9c4ff446b3662"
+    },
+    {
+      "path": "_astro/instrument-sans-latin-ext-wght-normal.B5bTHO_g.woff2",
+      "size": 11144,
+      "sha256": "c4fcfea41f2c1cfeea9211fa43679845454a1d0e0d7e95e069c7e73c4ae302d2"
+    },
+    {
+      "path": "_astro/instrument-sans-latin-wght-normal.BbzFLZTg.woff2",
+      "size": 30092,
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971"
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "size": 18845,
+      "sha256": "a60e6223ff13580ac0ec2cec601256b551c2a208fdcee9699ef8952a0d9a22b7"
+    },
+    {
+      "path": "de/behandlungen/all-on-4/index.html",
+      "size": 22394,
+      "sha256": "87fdcac86002bd518e8d03f4a06f791e50b00f16184254ea8ba613f414b11cea"
+    },
+    {
+      "path": "de/behandlungen/bleaching/index.html",
+      "size": 20731,
+      "sha256": "a44259458b3525557d8b04d5ff5f19ef19b0e3a193c8288518fd4f97493fa118"
+    },
+    {
+      "path": "de/behandlungen/diagnostik/index.html",
+      "size": 21621,
+      "sha256": "baa79806543f33318ce5a38f5981c337830bf589afcc0142d93dcad6f056884a"
+    },
+    {
+      "path": "de/behandlungen/endodontie/index.html",
+      "size": 22035,
+      "sha256": "2d17df244481e4afe0ad315efae2b067fd5906b83fe7b7110500892128d730a7"
+    },
+    {
+      "path": "de/behandlungen/implantate/index.html",
+      "size": 24181,
+      "sha256": "6434eb9300bf4881364ed17d386ceefb20fc2f4e414c52a24e6d69d5a328237e"
+    },
+    {
+      "path": "de/behandlungen/index.html",
+      "size": 47306,
+      "sha256": "14938eaea6340558218f03ec86008380c13f254e76e7f31ef9cd2ba81278f563"
+    },
+    {
+      "path": "de/behandlungen/kieferorthopaedie/index.html",
+      "size": 26659,
+      "sha256": "09dcca2cb4e7ca05cb91538789bfa21f227405596a04106e782eecf7bb2ff797"
+    },
+    {
+      "path": "de/behandlungen/knochenaufbau/index.html",
+      "size": 23233,
+      "sha256": "05831bdf6fcde876185be2025225ef9be780484d7d0214baf1ce69303e61510f"
+    },
+    {
+      "path": "de/behandlungen/konservierende-zahnheilkunde/index.html",
+      "size": 22150,
+      "sha256": "cfbeeb812f8c4298e17fa98f3a387ea57ddbd6d16bf49f693e804241ca4f92b0"
+    },
+    {
+      "path": "de/behandlungen/lasertherapie/index.html",
+      "size": 21710,
+      "sha256": "4d5b86edab8d17da0f306e42e694b1e26d5d0313128332239350a28d2825a1f6"
+    },
+    {
+      "path": "de/behandlungen/parodontologie/index.html",
+      "size": 24048,
+      "sha256": "c91a5c164a5cb6e1d5f0df677bf079422255ee350f163eab61e762177fa5811a"
+    },
+    {
+      "path": "de/behandlungen/prothetik/index.html",
+      "size": 24743,
+      "sha256": "bd487bec7c32be2dff8f9a4b53ea2beb2b91af3293a20bd541feaf332218ffea"
+    },
+    {
+      "path": "de/behandlungen/smile-design/index.html",
+      "size": 23887,
+      "sha256": "e8086b83e60afb961ac176a659447fb8acd21ae5e19fed10b17d5785c24495a8"
+    },
+    {
+      "path": "de/index.html",
+      "size": 64863,
+      "sha256": "22e4aa5816cdbe7adec75b6fe6426e8d5749285f00e2cf92ce2905035515f9dd"
+    },
+    {
+      "path": "de/kontakt/index.html",
+      "size": 19118,
+      "sha256": "d65d4d20d22383d44ab39003fed6f6363b0b1e9a709fbc6172326ce4251e3adf"
+    },
+    {
+      "path": "en/contact/index.html",
+      "size": 18788,
+      "sha256": "5ad2bb9a2edd86d1c6c77c5663a5fb72e8e5249549d339a35ee96158c9dae328"
+    },
+    {
+      "path": "en/index.html",
+      "size": 64286,
+      "sha256": "bb5a6dc63a03169721ac5682b5f0fe209609968d51d1fae3ce6fa53ebaecc906"
+    },
+    {
+      "path": "en/treatments/all-on-4/index.html",
+      "size": 22032,
+      "sha256": "f47334ac336b751548158cfb5c9442f2fb16ea24659abc0ac0040da4978c0eae"
+    },
+    {
+      "path": "en/treatments/bone-regeneration/index.html",
+      "size": 22915,
+      "sha256": "0af7dcda887f5ab8ae02a248cf2bec3926bc964109a4465e75a63d76ea6ef67e"
+    },
+    {
+      "path": "en/treatments/diagnostics/index.html",
+      "size": 21288,
+      "sha256": "3448d0d575a5502461d2ba7ab83dbcfc46193148d6299bba3658704b9f6584de"
+    },
+    {
+      "path": "en/treatments/endodontics/index.html",
+      "size": 21703,
+      "sha256": "d7db1cc7cfbc584a90b482857e5404328f3e448c06535e07c4fe2c60f6d993e1"
+    },
+    {
+      "path": "en/treatments/implants/index.html",
+      "size": 23719,
+      "sha256": "31b4d63d17fdbf571628833c7e0be6fd1acdbb0a98dd28824f0307e499cb6d9c"
+    },
+    {
+      "path": "en/treatments/index.html",
+      "size": 46922,
+      "sha256": "e02b958c5278e35b81ccbb07b7c681c4bb81ff55e5f3eff1bf7c647b51aee593"
+    },
+    {
+      "path": "en/treatments/laser-therapy/index.html",
+      "size": 21540,
+      "sha256": "7ec506bf2517178750df34f978704cbb4fb21c2b3c1aee5dc092c2c7022efeb7"
+    },
+    {
+      "path": "en/treatments/orthodontics/index.html",
+      "size": 26018,
+      "sha256": "d9b3641f6c058cce843e39676c99811107abcbcd0b7986a288e3872e0427faae"
+    },
+    {
+      "path": "en/treatments/periodontology/index.html",
+      "size": 23609,
+      "sha256": "7a60e398b78c57caa18e1c4065dfa6b0f369081d38a7cb8dcb370554b21706db"
+    },
+    {
+      "path": "en/treatments/prosthetics/index.html",
+      "size": 24430,
+      "sha256": "4a76256e2697a8e9cfd94be27673611fb771ed788930160d8945113ade1184e2"
+    },
+    {
+      "path": "en/treatments/restorative-dentistry/index.html",
+      "size": 21795,
+      "sha256": "c964f97d1639ca8500d40978fe30148d1bbc9d705e8e54a654a7b9a9f77fb6f5"
+    },
+    {
+      "path": "en/treatments/smile-design/index.html",
+      "size": 23711,
+      "sha256": "33ef27be784954f6da888cc9f5b857fc0c12fe17a85f4c590aeb35b14267f761"
+    },
+    {
+      "path": "en/treatments/teeth-whitening/index.html",
+      "size": 20344,
+      "sha256": "29e94ecdbf9d9b26f4549ce20c38936dd7d31e100264a3ae3c4e7710ba6efea0"
+    },
+    {
+      "path": "favicon.svg",
+      "size": 325,
+      "sha256": "43c16c5d749eee325e5958abe88b924289ac73ec32a812147aa408255d33d650"
+    },
+    {
+      "path": "index.html",
+      "size": 64194,
+      "sha256": "04b777834f53f4966cf81f1f6f8ed088bf05666e88572f8857bc837589dacefa"
+    },
+    {
+      "path": "it/contatti/index.html",
+      "size": 18938,
+      "sha256": "1733459a9661b874320ad40b059d4545d27c80765213a360e0bc48b5335634c3"
+    },
+    {
+      "path": "it/index.html",
+      "size": 64529,
+      "sha256": "f1b65c23082ce46d4face1841e94cbed8a91cab3862a4fa1143475c96b582e48"
+    },
+    {
+      "path": "it/trattamenti/all-on-4/index.html",
+      "size": 22212,
+      "sha256": "8a93befe5b8d7f297218baf04af040de0babca030969471fa932d5d584ce05a8"
+    },
+    {
+      "path": "it/trattamenti/conservativa/index.html",
+      "size": 21882,
+      "sha256": "0c27c524e4863472ba4e9ceb61ba04c191ef1002bf2c9f6096134fccb6f7624a"
+    },
+    {
+      "path": "it/trattamenti/diagnostica/index.html",
+      "size": 21519,
+      "sha256": "dbabf974f086bf08a7e852f73bf682b1f66c913aa78b7b1bd3f9d434c9dd840a"
+    },
+    {
+      "path": "it/trattamenti/endodonzia/index.html",
+      "size": 22030,
+      "sha256": "2859f5b1d06cb34073504f5b1c4992b6f7b8be65a40e57e7dc6e3d60debc5bb5"
+    },
+    {
+      "path": "it/trattamenti/impianti/index.html",
+      "size": 24019,
+      "sha256": "a4ed622160b02acd622b578a4b4d96bcb399b57b2dce2ca31449ebbfaf01bdfe"
+    },
+    {
+      "path": "it/trattamenti/index.html",
+      "size": 47043,
+      "sha256": "224581563bd27a6460b11e642305a915aa94bff617e08dc18eaae85ec5ee7608"
+    },
+    {
+      "path": "it/trattamenti/ortodonzia/index.html",
+      "size": 26459,
+      "sha256": "821d204f31760cc1f44f35bc6013510b8cb18ed7cd33d4c27497fd6fa403538b"
+    },
+    {
+      "path": "it/trattamenti/parodontologia/index.html",
+      "size": 23969,
+      "sha256": "af6d1a4fad84a3b17265c49dbee5a4226410b0d192ce4162f8d27433d1d7672f"
+    },
+    {
+      "path": "it/trattamenti/protesi/index.html",
+      "size": 24591,
+      "sha256": "0a7659088f9975b5ef89129e8d676c12fd0621e01f71a244cddbefe2e7152ed0"
+    },
+    {
+      "path": "it/trattamenti/rigenerazione-ossea/index.html",
+      "size": 23348,
+      "sha256": "3455508e714105fee9db21151fb957f515e66609da23ce85646201f065fc3a85"
+    },
+    {
+      "path": "it/trattamenti/sbiancamento/index.html",
+      "size": 20441,
+      "sha256": "f27ecaa204a3bcda77b72dcb1bcc088985a8ebf4c44c3234eca11976929010ea"
+    },
+    {
+      "path": "it/trattamenti/smile-design/index.html",
+      "size": 23741,
+      "sha256": "81d1b876d8f89bcb0cfcf2311dae6158ccaccb970924cdb25ee70cfe30217870"
+    },
+    {
+      "path": "it/trattamenti/terapia-laser/index.html",
+      "size": 21532,
+      "sha256": "6acd19259a0e1d37178bbe74bbcc032f183fc29b51a2f595fcd756d685596152"
+    },
+    {
+      "path": "kontakt/index.html",
+      "size": 18844,
+      "sha256": "17bbdfed98094e3bb7077ec6bb7f8574df24e1426ae55d642d6774f88de8eaac"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-320.avif",
+      "size": 2897,
+      "sha256": "0ab8eb7f4701c62b777dfcef9a3da55f769d5be6b0cf1daa401bde931b6a0e51"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-320.jpg",
+      "size": 5353,
+      "sha256": "75ae1fcc1ed5d40cd98adffa5ff001a912d5b9301b47fc85344f4d11d15d2ee4"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-320.webp",
+      "size": 3170,
+      "sha256": "8e570f374d335639a71d6b9643d08515f5031c90970d4fc9d4f1e109bed89995"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-480.avif",
+      "size": 4943,
+      "sha256": "ef1675a43f417df8d5fa984834c90039fefc44b7e10dce893a295cf2bb66cc0f"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-480.jpg",
+      "size": 9167,
+      "sha256": "249ea1d3693f323e82c1d88677b24e43765146b2728594275e19b30f89389df4"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-480.webp",
+      "size": 5306,
+      "sha256": "6ec7dfc15dd7c41d715cd034c21388043da34cda07dd7bd01b60b1788b2776c5"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-500.avif",
+      "size": 5234,
+      "sha256": "b3656a593691555815095b73296fa0a2fd03074d9a7b0f2d7d97fbe13f73908f"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-500.jpg",
+      "size": 9856,
+      "sha256": "2fa1a2a7780645f55d73bccabae99b0a92637a1ec1d88a1b685eec47fa6947fd"
+    },
+    {
+      "path": "media/all-on-4.441c4a4024-500.webp",
+      "size": 5828,
+      "sha256": "2b32a08c9bcc14d3082f3ed734c7a9974ddc099849af002abfeb60c5b8811925"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-320.avif",
+      "size": 4096,
+      "sha256": "720e3c635fcbf1d232ed63ace9b06f5557bbdcf45d626df683c4cfecec5ad2f1"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-320.jpg",
+      "size": 7682,
+      "sha256": "9e6ec80ef8a88c41bdec218aa829d28390ca74c4b3c9746a1a802b815c535106"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-320.webp",
+      "size": 4638,
+      "sha256": "7c883416e575f7df745740522bb4a420aa0e354aea13bc727c4bd04443b313d9"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-480.avif",
+      "size": 6828,
+      "sha256": "94d7fa1414f9a0d504fe856111e6d7cef4c21fa11a90ea1f22c1ae764f6bb940"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-480.jpg",
+      "size": 13519,
+      "sha256": "f73fc163a7638daa3c83ddf06b3d0eae7e5a847cf964d72fd4e3fa2bee2fdba6"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-480.webp",
+      "size": 7464,
+      "sha256": "59c42a00bb936e2b814ccaa89c3e4c4a08a014e2004aab6c770e4c79051bba7a"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-500.avif",
+      "size": 7456,
+      "sha256": "3df2d03fbf2a5fc2e684770acb2ca9e9fc8abc55afca2183a059fdc51452ba8f"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-500.jpg",
+      "size": 14433,
+      "sha256": "544a70dd43674a1c134ddaba681f0d090202dd8f7304e33d2d8a95ff5047a624"
+    },
+    {
+      "path": "media/digitalno-planiranje.56cca54409-500.webp",
+      "size": 8134,
+      "sha256": "150ff1561755f7f223eb2950b4c899bd0e725d682c4b7d6c13893f164e79df6d"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1024.avif",
+      "size": 35712,
+      "sha256": "d70c40c65e69e06328de92e5f5b3e11ea07987b0485db11f3c53af7bc85994ca"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1024.jpg",
+      "size": 72367,
+      "sha256": "60e1b7dc62ba7f01f94c62bc8ab05e45c37f3b889876f4bafebf43ec4d21d656"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1024.webp",
+      "size": 39918,
+      "sha256": "d1099ab093ae88d2a1b30612426cdf4f5ed6b33e96624f74df409e339bb790b1"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1280.avif",
+      "size": 45599,
+      "sha256": "3b9f1a7d62b19c27fe6957679cf75b7e15e0c022d79ca890388967f1b4476ada"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1280.jpg",
+      "size": 96911,
+      "sha256": "6ec59bda37f531bd049eb5fcef10c7faa28c12071b4bee71ec269f2cd9aecac0"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1280.webp",
+      "size": 50574,
+      "sha256": "c47d2b846984a5a35eeb9e75a3348f1b3009bb5074d1e2444d6a77adffb874fd"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1503.avif",
+      "size": 57080,
+      "sha256": "180488d227a5aab9933528d0dd8d1141409b8c52d0cfb10a04d53f7cfdb7a606"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1503.jpg",
+      "size": 126008,
+      "sha256": "3b4181fad6dfd74b4718077e01ba37639d6ead21d4d1fd162980b43c56f0aab0"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-1503.webp",
+      "size": 62690,
+      "sha256": "6a991b08c8035bd244a39c4523422c278831664c856c87e1169ef064fea59572"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-320.avif",
+      "size": 8230,
+      "sha256": "98c475ec56cbb9f1c8c43323f25b9414f0e1c6fe065669f114628150dd33f6a2"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-320.jpg",
+      "size": 12471,
+      "sha256": "32f73879938501eca9166476bd1642f57c83aefdfec219148b8eecc628ec84dc"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-320.webp",
+      "size": 9784,
+      "sha256": "c0b622e6560012692f895bbc15796237a4c581fbb1e3e7e6a22d39eea0c5480e"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-480.avif",
+      "size": 14434,
+      "sha256": "61d6067b5e9974d287436e4c51e262657293e2c9c427476312b831bbeaac0b51"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-480.jpg",
+      "size": 23807,
+      "sha256": "3508198b5c864942ec38198333ee5fbc57b3cf379c8bb21eb88ceb4486a3c4a2"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-480.webp",
+      "size": 16534,
+      "sha256": "f47e727a4f84c04058324b34f49309808fe7cbe5b9db7853a3ee2274c55572f0"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-640.avif",
+      "size": 21000,
+      "sha256": "c21c18cbe92146710c16920115730ca55f2304fab2f452907dc895084b5c5a68"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-640.jpg",
+      "size": 37319,
+      "sha256": "73660dd3cf1b45fa56d394ae3aa820f9d5902f6efd97adf7a6a36dcd7f9e1c82"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-640.webp",
+      "size": 24276,
+      "sha256": "8587c4d2e94fc1edcefadff2f98d27d8dbe0d17a4b18f362f77e89fbb2fd5eed"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-800.avif",
+      "size": 27395,
+      "sha256": "3471f7dc55952bcd5f25f677fee033f341d1a603b5e5dd5df7f4d499fbe398d9"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-800.jpg",
+      "size": 52218,
+      "sha256": "72c0dd8cfecd06f2b9960d7bddf5cc2484fc79509f4e815d05f8390fd4b38a78"
+    },
+    {
+      "path": "media/dr-dragoslav-vukovic.8d476b97cb-800.webp",
+      "size": 30528,
+      "sha256": "d32d76fcd06670af4fe03179eff0d2c5d6b965215108b96a505765621cd43e65"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-320.avif",
+      "size": 3451,
+      "sha256": "637ee7fb6017f3781f169354b8dc2f0529d26f844bfcb27b21a0c8b78c553587"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-320.jpg",
+      "size": 8923,
+      "sha256": "28e52b4d3c1300a266c029df9d09159695dcae2326d21e89b60db1181242397d"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-320.webp",
+      "size": 4878,
+      "sha256": "0522abf8eb9c7f91468687e02ef09274677c15b3863f2499dbf2ef26693fbf97"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-480.avif",
+      "size": 5300,
+      "sha256": "f5a3c91b10190468ea8d6f4a217fccbb96ce6123d7bf48cb95bcc00c70c52f05"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-480.jpg",
+      "size": 15286,
+      "sha256": "f2f32700d92154c0eded3a84b16d4516cfe2e5969cb1d3c40c0ac1b781aae99c"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-480.webp",
+      "size": 7078,
+      "sha256": "d122c44b2d1c037cb1206973fa90ff53a9ab652304598c970303f0ad689736ad"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-506.avif",
+      "size": 5791,
+      "sha256": "72d465202246b95791e54aaf18c41a752e01963200ffb643dc2a420b1b698295"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-506.jpg",
+      "size": 16415,
+      "sha256": "efcad5425ef3a91ad563a9cc9b81d78a5cb1526f4914649c1d043b0f2fc30f7b"
+    },
+    {
+      "path": "media/logo-bdh-mark.f3e6b90360-506.webp",
+      "size": 7690,
+      "sha256": "a1b226800e1d28f498b06c79658aba1d393d71c5c6659685d0b88869401120ed"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1024.avif",
+      "size": 8512,
+      "sha256": "83fb3ad753fd8d7e80b2c1bf6e5d2ac99cc5a6cbac7a9aed02a070608af54383"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1024.jpg",
+      "size": 25445,
+      "sha256": "08f095dbec8813e248dd82f845212fc411bc3b68092cfcc06b24fda7735aea84"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1024.webp",
+      "size": 12526,
+      "sha256": "e3ce2b949123239bfe055f0d8c17198f2818a96ec3f43ddede5e88b1ec6669b9"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1280.avif",
+      "size": 10451,
+      "sha256": "affa34ed421854b29266390998b823d7fbd5d1d1d766dccd7a5699e8b55891bb"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1280.jpg",
+      "size": 35986,
+      "sha256": "3f8b89eb9b8cc45d1764d343c4202a76972a429edeeb9fe9926956d9ccbff78f"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1280.webp",
+      "size": 15754,
+      "sha256": "55a0e3eba88f25dc38e5afded2636fc311f77fb8e8c90b16248b0e4cf58b0058"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1600.avif",
+      "size": 14219,
+      "sha256": "d20d8c0c144756158ce45c1aba5acbe89752da9f5cfc411550ee38b3cacbd95e"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1600.jpg",
+      "size": 53159,
+      "sha256": "93ae1b60ee5e1fd6c2b6c80043c8932444d16efd0ca86b74482081ee40c8a3b3"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-1600.webp",
+      "size": 19684,
+      "sha256": "e492f89b0ae605eef8740b0f0aaa5716b077f2fc3fa48fe5c60e5bd3dcb6f8fc"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-320.avif",
+      "size": 2355,
+      "sha256": "f306b3de6bfa7e29413fa56905b28ab841eba995d3aa96cbbd0273aec8032aa4"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-320.jpg",
+      "size": 5364,
+      "sha256": "d7351b9982e8b4981fdaed3b347219905d38f5f03a29684a0b50a83c911b91c6"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-320.webp",
+      "size": 3432,
+      "sha256": "588e8b308ce3c22f32d239d40dc4dcfed0e41912df0afa84aa4ef6668319c2ee"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-480.avif",
+      "size": 3408,
+      "sha256": "857f19dbd3a6ad8c46ccdd821d538991f07b9593415cc58e3a9fad9c85d8d81f"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-480.jpg",
+      "size": 9027,
+      "sha256": "8443d194fd9463ff259e4c0f950e919f0135d3b13194dfd27d9c4cb49b8f4fa2"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-480.webp",
+      "size": 5556,
+      "sha256": "07357e81aafb35c687d7e1bf6477fc4e57780b3005a9dba8097fa6d79612befb"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-640.avif",
+      "size": 4753,
+      "sha256": "76e24954a2be18b42b3b062f1ad589952120c59b7410eedff89132ac21242f74"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-640.jpg",
+      "size": 13581,
+      "sha256": "55a28bd432c43f3e4ba17c981264eef4dc8e95bf822b457806245546c7160b15"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-640.webp",
+      "size": 7774,
+      "sha256": "2e6ba1ce8158e197c6835be520cf0d4d3c9ef4e314377f6132d18aa863964ff6"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-800.avif",
+      "size": 6001,
+      "sha256": "e367d80dcc6edff18075c21d0c9442aa3629e7a64d7bab4a4699323e46b678d5"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-800.jpg",
+      "size": 18342,
+      "sha256": "3ce5c8aed59fe549f12d6cd1c48d0cc98002c01911a7019f7492d5b800a14cae"
+    },
+    {
+      "path": "media/logo-bdh.f8f5c8f7d0-800.webp",
+      "size": 9684,
+      "sha256": "9bbb40d9260ba8c6685f766b3a5c8d975c9abb07bb649bc6dcb97f723def6105"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1024.avif",
+      "size": 18889,
+      "sha256": "3cfd1349ca327494bdf89d039659edeb777798189428c207086482b43c047fc0"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1024.jpg",
+      "size": 53748,
+      "sha256": "d6e3220a5cc800b072b5502a0126b299731405797bb58e448dd23c5c8e97b63a"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1024.webp",
+      "size": 29384,
+      "sha256": "91229316bf4a0e468285182b610d1179a2d3d4f587134425a9bba05e22cb5814"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1280.avif",
+      "size": 24394,
+      "sha256": "d8024e6c3142492f440b7712398091f92ab537dbddc4ed157379d95e90ac989d"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1280.jpg",
+      "size": 70706,
+      "sha256": "709b6471b5ba2c8f80e1bf09966e84db8110fadec42c5b01bd286b6186b1b771"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1280.webp",
+      "size": 36998,
+      "sha256": "d60cbd5eb0011cb5ba67cc98df0b1e7a113eab01a5f11ad75e4a583558943a46"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1600.avif",
+      "size": 31967,
+      "sha256": "f83fa877febd17e971640e8b9b978f1a2c1b3404ae6e52d54906c825dfb7deb7"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1600.jpg",
+      "size": 93293,
+      "sha256": "36696b9e9a05af9ba742347995fdbc972f219c6664e2351d83e2c387552c8426"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1600.webp",
+      "size": 47000,
+      "sha256": "b4fd621b6ec73647ae37bf1afee5c65228da2e785dd6194671a3ed9423a7431c"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1920.avif",
+      "size": 39572,
+      "sha256": "7b52730508473b2544e1dca0bb1bcbdb2f79c9feebb770f3b924a6864977f829"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1920.jpg",
+      "size": 115390,
+      "sha256": "01310a03a0e3e630b55aaad8e65c194e77cbc3953854a09867c438fe23be7d5e"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-1920.webp",
+      "size": 58294,
+      "sha256": "264c08473cd43ac080cadef208053f3f98a8f95433e71ff0099d161e533bc073"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-2207.avif",
+      "size": 54881,
+      "sha256": "b69ffcfcf37ff8403a4c278dd2b5e7a8eaa519832949ce5729e0e52e9b6c27ae"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-2207.jpg",
+      "size": 127704,
+      "sha256": "ab1ab49b8c62cea5c6214742feb62c3ba9184fc8f1c1781224ee9ad79d04305a"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-2207.webp",
+      "size": 70714,
+      "sha256": "599797e210b26bb22b3c4bc7cd028d6a6f87ad68dc9008f851d1f73f569d1d60"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-320.avif",
+      "size": 6039,
+      "sha256": "ea1654e7c98e1870c60002eb67541da02e36a70b1917af3254f6e8d0c491b481"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-320.jpg",
+      "size": 11996,
+      "sha256": "362bc58a79e1f92052853c1e4acc6d1e9d6d8c789072d9d4bb2029cb88858b87"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-320.webp",
+      "size": 9164,
+      "sha256": "439657d32bafa694d45f552c8bfb74e34ee538f364e96bc044c5b5988b6d3cb5"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-480.avif",
+      "size": 9561,
+      "sha256": "e9b0bcb13a5efcd9cfd99d35aa1d3b3f6d040f5e653324ffd997a3793f6ed9a7"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-480.jpg",
+      "size": 19973,
+      "sha256": "1b88f4b391cb83dbdf3242c0310761fe344bbff0352f7f588a2afd41bf6b6e95"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-480.webp",
+      "size": 13478,
+      "sha256": "8c45b2ac312b58d3e59fbb893f467e07fbed99ff08fd7d4c6cc29b4ee879d757"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-640.avif",
+      "size": 11612,
+      "sha256": "fd6c988ff989bc84ba19a101ac67829ce0dda2ea08177e42fd6ca1189714f628"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-640.jpg",
+      "size": 30244,
+      "sha256": "ed7368ed9d7352a9a0001c6f8983f6fed04d75648c6fa251b2b74d60505923f7"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-640.webp",
+      "size": 18446,
+      "sha256": "40865488972a8e389e4358af69f26dbadec29255e1e7ae0e3d14f6ed6d310a10"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-800.avif",
+      "size": 15234,
+      "sha256": "f41cc83040989657bb36a80b6d50dd57622188eecbb5ebdafe54d31bb26d76e3"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-800.jpg",
+      "size": 39922,
+      "sha256": "0d80a8a580195a5d9fba8289c6a1819c0fcb58a82a15ac85c5821fdadd388245"
+    },
+    {
+      "path": "media/logo-escd.fd55fbc88c-800.webp",
+      "size": 23228,
+      "sha256": "8a6c628fb7ee87b0e0aaf43747263a171e85d7f365ece4a518500612c59c5c9d"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-320.avif",
+      "size": 7934,
+      "sha256": "d79c7b6c1d66b7b74a2be34865b7c51480371c44078415e8c97b68b5df47ec50"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-320.jpg",
+      "size": 14870,
+      "sha256": "a30ff25129c921e461f79e1f93eb9a9aea2b2cad58d3965c11051817fd26c66d"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-320.webp",
+      "size": 10518,
+      "sha256": "f71347e4136dd351c2219a86cd0b61fc902f23bb0938d7a947969f9f86f45860"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-480.avif",
+      "size": 14124,
+      "sha256": "9b0b759326667194c0e1e5408c22ac9d10cbff3eac6c0092fcbe3efda853e8cb"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-480.jpg",
+      "size": 28176,
+      "sha256": "210ddad3e12fbefa5b6aa456a45b1fb7c755e1e8322068c70e48a36bd71f8bc3"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-480.webp",
+      "size": 18452,
+      "sha256": "6810d2c38fdac23cccd7ef1d3c48f23ee38eb3246289f70e80b58f98d7dd3ef7"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-640.avif",
+      "size": 21653,
+      "sha256": "f01381808badc036ee5090381ba2cc734d2ae8c7b9e04c1f66d8f0de6571134a"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-640.jpg",
+      "size": 43413,
+      "sha256": "27eef08519f2cf066b446fdc4def7ecf240f01e004907a8e169d9e09bffe5165"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-640.webp",
+      "size": 27168,
+      "sha256": "d4cf78685bc8ad1e287fad8249f8bddb2638c56a3b483e331c1c6527b01bb6b8"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-750.avif",
+      "size": 27624,
+      "sha256": "9d0bc5192e00f9b4c5557615020d01864ec8eb72b9b0ebc8a118c5011c716f51"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-750.jpg",
+      "size": 41768,
+      "sha256": "e39c2b99d3085a1e54637f8582282aa20314cf68f3b9073204b6feda9e0ad347"
+    },
+    {
+      "path": "media/ordinacija-cekaonica.0efa68edd7-750.webp",
+      "size": 32690,
+      "sha256": "4a32d1f3056c9ca9cc0d4c4a0c26dd360ce5c6f8f0acd5f20bc45f4b03506d84"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1024.avif",
+      "size": 53640,
+      "sha256": "e9092ae6befeb7ca38cc473b0d43434dd559beef285c014677763ea2f053f324"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1024.jpg",
+      "size": 106644,
+      "sha256": "8c0a1007b21733c7dfac48d074ab70e7247393abb0d9e6e769aaa98158da5b2d"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1024.webp",
+      "size": 67962,
+      "sha256": "06e22ab19694426cf07a23eaca15973d5fed1c5c8d13ce5ac52a147d81bfe529"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1200.avif",
+      "size": 80907,
+      "sha256": "0351f09a5c661ccd2d2b183c1dfd597b9b6f03122942744ccbaade6587461cab"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1200.jpg",
+      "size": 134540,
+      "sha256": "3e6074ef28b8469c8ddb40ca49c69c7e70c214bd71a66405272c6d2b6d40a61e"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-1200.webp",
+      "size": 90540,
+      "sha256": "d32cad3a5533af0b5b84ab820853acba0f195fcc6dbf301c4ec14e001da74447"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-320.avif",
+      "size": 7824,
+      "sha256": "3f0c623e25b687a3476c38a26c1b8f2ef8f0edf1b6865cafb138ae4b0290fb64"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-320.jpg",
+      "size": 14526,
+      "sha256": "3382a26230b84138714c93930cd2a611bbfcf13b6a3916e41781369883ca147b"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-320.webp",
+      "size": 10404,
+      "sha256": "3473f21d3daf2d62e5b874dd625677b0191fb0fb31fb2f556575a90eb44c8cf8"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-480.avif",
+      "size": 14592,
+      "sha256": "f85aeface4cf8398d5c63bba9709254bace74cfde8e2675d4e320cba06955183"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-480.jpg",
+      "size": 28419,
+      "sha256": "8320b746d7362c662bb42aa5bc57e7e70e0f65385b085005cc6b7d94bf846625"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-480.webp",
+      "size": 20166,
+      "sha256": "71e394307605e6e0d347c8e100e22021b3f6856b155b446aa1209b67260b7d1d"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-640.avif",
+      "size": 23290,
+      "sha256": "5d16ae17d08fca38416e211c229dca93337cb23b25ebcfe4fb78ca296ed182db"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-640.jpg",
+      "size": 46815,
+      "sha256": "522835c76d6333b9c6dce761ca1a986631bab80ff28e6768ea38c156969b0d72"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-640.webp",
+      "size": 32208,
+      "sha256": "0d6fe4d88f766506cd0c0c20143863b9a4b2cf3ed1a0714e6a0d76299ebd00c0"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-800.avif",
+      "size": 35260,
+      "sha256": "319eb965045d0787e4e31184a5d91c3d9da6aab70e35ae0424b934e84e546045"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-800.jpg",
+      "size": 69366,
+      "sha256": "c4e2e41e80528c25d7f645b34a84966da55d55170adc54ea34f1fe64eff5f03e"
+    },
+    {
+      "path": "media/ordinacija-cela.746be73b95-800.webp",
+      "size": 45878,
+      "sha256": "ba1284740b3316308a2f15252a6bace9fd4341138a6d4a88957239e1bb240252"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1024.avif",
+      "size": 21597,
+      "sha256": "4756cf8d18fc7696c881d5718c2ee2a5c93e0ad3f58c10aa16165466f682b310"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1024.jpg",
+      "size": 46865,
+      "sha256": "d4612af5f68082bfbf56dfb3d7ef0f911c8d0dc09864b1b2dd388513c26275d2"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1024.webp",
+      "size": 29332,
+      "sha256": "4335ac5c984d3deed8ebebe42a24f76d84bf2dbf68ba72ea0203885ad6fa2a43"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1280.avif",
+      "size": 31148,
+      "sha256": "19999db92f5e021fb3b754aecae2cf6180703557aa89c93b259a8387b79726ba"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1280.jpg",
+      "size": 68342,
+      "sha256": "4fa5ba82faea331040952aa1364d6a4f0c4b5f2938dde7bb4c67c9cafbde4877"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1280.webp",
+      "size": 41380,
+      "sha256": "9030bed3a35b15fd4ba0b5eee6bc2207c54de14175980158e54f9a29a765c8f3"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1600.avif",
+      "size": 47098,
+      "sha256": "1bdd6bdc3e6f1cdef57ae4db511ab17bac7dbad679de8b9fe7daec0e224a4afd"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1600.jpg",
+      "size": 103296,
+      "sha256": "5417ab4138bb4cb53529cd452c4598370f662ea53dd9dd517797ba555f0d5144"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1600.webp",
+      "size": 63432,
+      "sha256": "a53b681c9300837347fcde7eb4a9a60ff9ff1fc464a3b4c5045dedc4bbe89296"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1920.avif",
+      "size": 65498,
+      "sha256": "ca1ae0e30798ee1be6bdaf51466091a6711b6d467822eff680a687866e881ab3"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1920.jpg",
+      "size": 145424,
+      "sha256": "992ad98b0cc12e3ac9a7817811e39207316434bf2702303018d1fbe0981803a7"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-1920.webp",
+      "size": 91948,
+      "sha256": "1c89b7078263b21d91846bcd9cc9f8bd924480c678cbc602229dfe0ff478eaf1"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-2400.avif",
+      "size": 107469,
+      "sha256": "606dbe306c9df46cf590cf6d07c69db0197be3f962c95cf7d52896c992e842df"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-2400.jpg",
+      "size": 230010,
+      "sha256": "3618f84b26501bfa5ef25d2de3bd724e8c4e4e276df0cc08051c3b1176bfeaae"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-2400.webp",
+      "size": 151798,
+      "sha256": "abbbec7e577db4edfa842b10f0c8880b37a5d5a827ec4e7bced259459c237c20"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-320.avif",
+      "size": 3977,
+      "sha256": "2a307f7b514704392a69a7a0f34529db5ea8fc366c9ffcc09f1b48ffb438860d"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-320.jpg",
+      "size": 7470,
+      "sha256": "7685ffb945149f806becd18cda1e410cfbb7355a2bd56345b8c0e6dda1e928d8"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-320.webp",
+      "size": 4812,
+      "sha256": "15c6fcaf8e64c2b1a43bf685fde6e8759353d045b29512b76bfdacb5cb7ed72f"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-480.avif",
+      "size": 6904,
+      "sha256": "f0b1d1663b2f712a460d93f2ed5602b75a64fc0b3af62a90f33b8e565e727927"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-480.jpg",
+      "size": 14005,
+      "sha256": "f66e824cfaa6c548c7bb2a6d4da4dab64f43703dcb413ec85705edc60caf2c87"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-480.webp",
+      "size": 9262,
+      "sha256": "e409978c37a6f14fadcfffd7163be08878a6df4f0d9ab1eb87ad6c18dbd599e7"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-640.avif",
+      "size": 10287,
+      "sha256": "6a3f210e684b2764d91eca086a295a1633c8a2ab16dc459143492d80df579472"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-640.jpg",
+      "size": 21633,
+      "sha256": "2ef1dede9506f966ec8dafb5e46fbf49c94809dc35a33bcf1999e1e77a6702d2"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-640.webp",
+      "size": 13568,
+      "sha256": "767d36d5e56b02b94196466b254d201194c46285feea18579d7e35f859ed1fcc"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-800.avif",
+      "size": 14479,
+      "sha256": "e56f994d87fa0e1b25a157fc2b26fcc4a7183fc53602834afe147dad1d7eb742"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-800.jpg",
+      "size": 30740,
+      "sha256": "db13a5d629867f1de42c0dc1c506d72e0f4b7291342371239f8f105a22b59375"
+    },
+    {
+      "path": "media/ordinacija-labratorija.22caa82f03-800.webp",
+      "size": 19494,
+      "sha256": "45509cd1f0d756f19f4e02211f7fb2f6ddf727f80a25f80ed8a789eae51e58fd"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1024.avif",
+      "size": 49028,
+      "sha256": "2560016b2838a0f9eb86e02a5bdc72a14a27eb44b1c4d04664f0f81bc6dfd80c"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1024.jpg",
+      "size": 93707,
+      "sha256": "a936f7a0e03c91968cb6a22dadc621c2ee6b0101e86f7b230ba0cbb684ebf9c0"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1024.webp",
+      "size": 67266,
+      "sha256": "292c4c7cfa8e8941c4461129f5d797bd702622cb6921aaa15ddb9b9bf7f52322"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1280.avif",
+      "size": 69814,
+      "sha256": "de6b0a179c3d0c850755434a22ffd8c52a4fccca79c227d353b65c4b8c214124"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1280.jpg",
+      "size": 134136,
+      "sha256": "9b09b023b85fd59b1ccaa7a9d025bda59ff9b93a0140c1af5c8b93885999db11"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1280.webp",
+      "size": 94774,
+      "sha256": "aaae527b34ac7c5f4028129ce9c9183739a1555e37edeb87ad1ddd90012aa89a"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1600.avif",
+      "size": 96626,
+      "sha256": "5dc7cf09aa2f078b0e5dcd4662b59e57b0a8198f35c55e0830f569b6d68a2265"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1600.jpg",
+      "size": 189386,
+      "sha256": "acbc796568219852ba9227157c0299c01b093ed23dc5adb2ae6e02eb80a93978"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1600.webp",
+      "size": 129266,
+      "sha256": "ed59c69290e2d723ffc42589bb684e70a40f8ddc63856dde608379a3374eeed1"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1920.avif",
+      "size": 124857,
+      "sha256": "f0382c92e0690fb0abc5b26e29ee41716401551875c5490442b51590d3c43237"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1920.jpg",
+      "size": 248190,
+      "sha256": "cbbcb312c6bd6e6a1d2100fd55d4170011f4205ed681622c49372771547792f1"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-1920.webp",
+      "size": 167440,
+      "sha256": "9c675c8a99260c74cb374ae89d6325e8176f8ccbaceb366bbcbb4d5e665dc804"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-2000.avif",
+      "size": 141635,
+      "sha256": "df06e11302fabb7bddaf380cd832abeafdee3b961f24abd71ca1b9e295c58b60"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-2000.jpg",
+      "size": 271628,
+      "sha256": "46fcfae6b2233f946fab3ed83bc369beb1f0a11aba1b118e2b4a9555fed63a94"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-2000.webp",
+      "size": 178448,
+      "sha256": "0c6888cac01f2ca3a9ccea696cce57c4b8136f6a822d97e45696945e6ef7e08a"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-320.avif",
+      "size": 7076,
+      "sha256": "3b188a4ccfe4da5a3866a93a12752f3c4bf187d3b1e1c689374ae3797126fa39"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-320.jpg",
+      "size": 13403,
+      "sha256": "1e328c8ad5f16603d0ff70199f17ec81dae594e336bbc3f96dcd2b337eedc390"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-320.webp",
+      "size": 10360,
+      "sha256": "29c4fe7584f31ea7eca3e9254eca7d330afaff9b36923dd1cf95c90e02743aa0"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-480.avif",
+      "size": 13926,
+      "sha256": "0775a6d13ef073fcb82ee18b1996a78067be881d6e9643848add3954e8ca5ae3"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-480.jpg",
+      "size": 26099,
+      "sha256": "c5a6dec443987555f9f198f25faf3bc46f35ac9c667c6690b5a42a8037ab43c8"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-480.webp",
+      "size": 19810,
+      "sha256": "1d55f91ef82fe03a1d5223a7cfb1eb2c657341133c26aab0c9861d83f77954e5"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-640.avif",
+      "size": 22580,
+      "sha256": "acaecbc487f45ced8995927919782bc5a2f8b6acbe4a5b8bb997a84d54129afd"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-640.jpg",
+      "size": 42087,
+      "sha256": "539af4e87ae3c185657031928044bc4a0c6fbd845e6b68030b18c15d4c72e7a2"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-640.webp",
+      "size": 31656,
+      "sha256": "ccabf42fe2bc4ac96df5f2b3ecbc69cc0c8554d724f6b5dab29f847acc052ccd"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-800.avif",
+      "size": 33029,
+      "sha256": "b77667e6fdd46da87f566a757cff18ba223d5c97afdef1d94c24c461eb14b40c"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-800.jpg",
+      "size": 62039,
+      "sha256": "54f0035fa78d2e5a85e92bfcb5e2ee2aa476cd3667e9ace9b618355044971d56"
+    },
+    {
+      "path": "media/ordinacija-pult.5fdd4eef81-800.webp",
+      "size": 46042,
+      "sha256": "bd2b184d79ef83ca530e4f59e4cfe246da239b593f929151ca9938574081d878"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1024.avif",
+      "size": 55619,
+      "sha256": "ef534ed216d9f04082dd192e7e8091a001b56c15e57437257d89a2206eb90817"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1024.jpg",
+      "size": 126523,
+      "sha256": "aa8aeb667cc7a8b47c1f2867afec7052869e1707edd51198c1fd9419d2fc188e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1024.webp",
+      "size": 79844,
+      "sha256": "7d835e2412965ec909c674b63a517a28e7f3d9a9404bfc7dce50ae3fd7459bf1"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1280.avif",
+      "size": 77229,
+      "sha256": "677c05ae44a194c486823b4f651458df677917db229b3d11a7900a9a3faf8ee8"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1280.jpg",
+      "size": 172945,
+      "sha256": "780b13b716127d1958ec9687158110dba55f56d9393d223fc19153cdef27a191"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1280.webp",
+      "size": 106340,
+      "sha256": "04fd05c5a920ba7734e977cfc8c94ef38e03315981cb918295b5985c00320d7d"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1600.avif",
+      "size": 104425,
+      "sha256": "dfadfb558e3578cca890269cb7846e771685877f9e00ab14a9955917903d2885"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1600.jpg",
+      "size": 237356,
+      "sha256": "ad95e91fc8b7f23b22e0523e4dce2f0a65932e9c6cff1e5a87b6313232a53387"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1600.webp",
+      "size": 140640,
+      "sha256": "8c93adcb2eb05b56dc79ffca9fee3fa053ac8342ad98ee8b434c89edf40cc599"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1920.avif",
+      "size": 135353,
+      "sha256": "131909cb88a39a00cfc2058827b21463e3c4ecee85c1f877c21fa6e2961e3169"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1920.jpg",
+      "size": 308895,
+      "sha256": "c1a7c8502de38948fa515e5f0b83db9333453edbf3fd790c5b638251746e3a2f"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-1920.webp",
+      "size": 179288,
+      "sha256": "95e5291bd1d1d4cd48369829ff389fe267eb80a32b8133f36bfe67f4a287901e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-2400.avif",
+      "size": 186151,
+      "sha256": "917d9e9e703075514224279d8c77e47069e49c8dd00fd03f7bbcc1898e797cfd"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-2400.jpg",
+      "size": 432387,
+      "sha256": "5f522fa95424f2ee076dc00544d0781d1f67ecf216df01fb34e682928e82e113"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-2400.webp",
+      "size": 237658,
+      "sha256": "3bc03170889b9f1f1053cffd0f9bd630582507ca1fa56725c55ffa67ee4c6925"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-320.avif",
+      "size": 10391,
+      "sha256": "1d06ad0825ff4e2ceeb69d23617052395808c1a283cbd85bff3fdfa5661c7fdf"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-320.jpg",
+      "size": 22367,
+      "sha256": "946dee11e773d08d71c5ecb69a4dc10d24850a5821e7385b5c4c6ab300690d65"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-320.webp",
+      "size": 17044,
+      "sha256": "7fdbfcce9ff94dcce5d440b4afd18c0106616793d229419bc8cb8c735fd17e88"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-480.avif",
+      "size": 18755,
+      "sha256": "85b48c608c99c0adf08bd27284d173d77be43f1fb407ffc9c2066a72c76cf293"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-480.jpg",
+      "size": 42150,
+      "sha256": "e5003e3f111dd46ad1be9234ebbd21f459f6358aedd29fe27a27f38d86b5fcef"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-480.webp",
+      "size": 29758,
+      "sha256": "c4f789e736c511358d278fe0372250466acc975928aa0ffee42a74d7124db95f"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-640.avif",
+      "size": 28336,
+      "sha256": "487c70c285e7de4f96f81c14e5f1af2c9f39128934f2cce6188cf35db301bd22"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-640.jpg",
+      "size": 64913,
+      "sha256": "acc853764c1b87aac43a26d50d7d19eebcbab69f391f4f24632a469cc6b840fd"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-640.webp",
+      "size": 44118,
+      "sha256": "941a6dea1553084c0b9fb6e7cef3898fdd40bd6172c08028d39edc4c3f3b9d60"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-800.avif",
+      "size": 39360,
+      "sha256": "8d86c845b02232d50a21f49574cdeaebe44bff6aa19f85bcf8a266c289a1480a"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-800.jpg",
+      "size": 89004,
+      "sha256": "effbdcdf7c53eb0a42d1d5b3ef2a93cbb5707a1cf6e5aeeb30a98e2bc291d040"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-1.3c792c03b2-800.webp",
+      "size": 58308,
+      "sha256": "3810bba6dae4454b8a627f08805a1a2c9e5bb4dcf1f89c46251db7544cb8d7cf"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1024.avif",
+      "size": 33375,
+      "sha256": "6f0ffb92a2352c56efcb7e88c2c92c6015c4f173be3aa1fc41a969e2e272e0e1"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1024.jpg",
+      "size": 66500,
+      "sha256": "ff245b289910bfcbd788bd1145d1bf63f235146ac554142d8bcc1c88591852ab"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1024.webp",
+      "size": 48110,
+      "sha256": "06542e5ea2d9e0d08447e2d092db569d2cd7b61d8721d0e2f25b1e3a18733724"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1280.avif",
+      "size": 48565,
+      "sha256": "55955e7ba5d9ecf95dbda2ac342ca242475e8d38b3f774d17e23be23aa4a8c87"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1280.jpg",
+      "size": 97761,
+      "sha256": "4958f60b1efeb85ab8ab0a13e70a6bc5daa4c1664b2bde28635a85716f86fcf5"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1280.webp",
+      "size": 69868,
+      "sha256": "d28066d38ba780bcb8fc39f54c1b275bfb55c4e377b9a876fd9e5fb197f252be"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1600.avif",
+      "size": 74770,
+      "sha256": "a8db049ac631e6ce1e98b4bade3523f28a19577aa4f7a9429208d99e72695b9e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1600.jpg",
+      "size": 148010,
+      "sha256": "7f4690ebb19438f7a7f600878f4928ddea7965a565d8c02e0194aa316e8aff2b"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1600.webp",
+      "size": 110146,
+      "sha256": "a7127a9b8bae31a91bdbfe471a0020d5578fec7185921cb58092ba1785149c81"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1920.avif",
+      "size": 107526,
+      "sha256": "8db68f4412bd21c9f2431fc9e3d96ac7c1f35eb7fdd07df5828d7161587a6401"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1920.jpg",
+      "size": 208201,
+      "sha256": "8c2e84017fa38d07dc46be298488ffdd9ce9aee082251b319e9db8b83022ed3b"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-1920.webp",
+      "size": 160074,
+      "sha256": "6349172aaccb54f99ab7755c9178b7328a9ba4e471d2dbc26141031efa122168"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-2400.avif",
+      "size": 180266,
+      "sha256": "153bd1bb3e29c442b2d26343792392cee01487b7a078cda27c966586c8c8c54d"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-2400.jpg",
+      "size": 319298,
+      "sha256": "8e07c7528cfe461b423c545c2df710caeda6a009061c52660dec1f8528ecaf6e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-2400.webp",
+      "size": 251984,
+      "sha256": "ecc6d0bb5191ed49259796fe1aac48e856eccbebebd15522f8b2b990d7d59bc7"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-320.avif",
+      "size": 5904,
+      "sha256": "e60f31ba9f16e38a6726e83312f4dc53bbf9196d0bef8c1b2dffff8bbaf1504a"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-320.jpg",
+      "size": 9940,
+      "sha256": "f41b73b8d689ee56566587da0af158881d541f35f064c67f50447ba0c7e38c3f"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-320.webp",
+      "size": 7750,
+      "sha256": "6b54c04b64c1bfbb186afacc9be4137ce2a6ca7d5da0dbc1a88820018a85e682"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-480.avif",
+      "size": 10569,
+      "sha256": "f92e852cad197d4dd64a0e140eff0c6d85b3956b90fb95ef3ccb65b4faebf64b"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-480.jpg",
+      "size": 19038,
+      "sha256": "b02527875d4de024b93bf993a7fcbf48d5742449be0c7c539efaffb97b0cbd68"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-480.webp",
+      "size": 14558,
+      "sha256": "823a36379d921c40539a1bdf0fca9d303c6d90c555bad92e38ae842655724d6d"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-640.avif",
+      "size": 15684,
+      "sha256": "76271f404f8b6569a88ea0e8ed45df9edbc6f3093fdc5e06b8b0fdf63b788bfc"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-640.jpg",
+      "size": 30056,
+      "sha256": "9802fa3b48ac8577589e326649b26d37e61fb5e17fdfe60822aea3b29c0b4298"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-640.webp",
+      "size": 21968,
+      "sha256": "7e7138e9c183a75541638eb6b940dff34c8778e9dc5cd532fe4f1b58e3befd4a"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-800.avif",
+      "size": 22376,
+      "sha256": "c4ed9e5102c0128aa39578ff0b2664d38d25f384dbdb51b3b21b5afa2acd174f"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-800.jpg",
+      "size": 43080,
+      "sha256": "a0860a965ac5644d3e71a245f0f657e9e3060fa81f80f5ebe329aa2e8c7b1bc9"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-2.5ce6997be6-800.webp",
+      "size": 31704,
+      "sha256": "9fd62b147ed301b49fcf728e8566abc0dd456edc0c84fed50f3d6162d09997a3"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1024.avif",
+      "size": 58959,
+      "sha256": "92931e6e124aee1acdb9d9a07901b5214367880267cb0f86f72ce15cd406dc2d"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1024.jpg",
+      "size": 116843,
+      "sha256": "f76508c2af95b28958c871e44bb3904f5c5a5c594dfaccfe2aa9d719a2f820ed"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1024.webp",
+      "size": 87994,
+      "sha256": "373198ce6b93ece9a7e1266b34d714f806c8c0300aaefcba8844a49a1991c609"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1280.avif",
+      "size": 93835,
+      "sha256": "ed0a0af88ad005495cd772ff2ae6213bafe9ae04ca0f3fc212d3170876860a69"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1280.jpg",
+      "size": 177469,
+      "sha256": "4920c711f6c0a29154de336609a13eab1de084c9e66ecaaf853c93c40f054d67"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1280.webp",
+      "size": 140842,
+      "sha256": "ef51097d6dc5ae06317738cb3177eb9294ad4199414cef85d0dc5f67fc56613b"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1600.avif",
+      "size": 153709,
+      "sha256": "70387fdffe64942d9e470d565c8d0af417c85ae9df676dbc3e4cb74fae56934e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1600.jpg",
+      "size": 274437,
+      "sha256": "a3d877adbaac04fad295136c0828d66dedeedbd58695ab975a367946e00268bf"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1600.webp",
+      "size": 221850,
+      "sha256": "1532d79e55658b5bee9383899c9efb00d4eda66996b3a93fd2f37e0d935159b7"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1920.avif",
+      "size": 227508,
+      "sha256": "ceb465dbe854d1f3330a404965bc40cf40c5a78e86e9ffa75f54b3b72f753930"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1920.jpg",
+      "size": 395260,
+      "sha256": "107d18ccba7e185ad823f6355ee2c2dc99dbd1c91858c85b2990c0b13da45eea"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-1920.webp",
+      "size": 311226,
+      "sha256": "240dc35831f15f485ee37e1fa8c817a44c36699c43d680a373f34661b74a4acd"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-2400.avif",
+      "size": 361277,
+      "sha256": "1e126c6c3a957baf8dbe9cdd7976e941f0a515943a61c947e9592bbecfb57d9e"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-2400.jpg",
+      "size": 618605,
+      "sha256": "9b5e3762a0549cc4fb7017f0b5a84de07b89dba2ed059c7645e0e5782cd78789"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-2400.webp",
+      "size": 469536,
+      "sha256": "0b3cc84b13ae9b42baf1508fd7094476822d9f2025e92f1caa081ee53899a04d"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-320.avif",
+      "size": 8203,
+      "sha256": "669a0890e469835eea317dcd360a9c8bd79ea95af97ec8616496aeb095686113"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-320.jpg",
+      "size": 15572,
+      "sha256": "3954bb8132209fd1aa7ffaaf94386e1277a1f029a8df0c3b4a97058485acfb2f"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-320.webp",
+      "size": 11704,
+      "sha256": "1ff2a8e8cfc66c31ecdd1cdf3a10bd96ec2825c04c2f00ac34190a1caa39ee23"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-480.avif",
+      "size": 15243,
+      "sha256": "0eb909ef744a8a4abc3b7107b0cc24c1d80d08daea2b7222054e5ef573ee68f4"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-480.jpg",
+      "size": 30807,
+      "sha256": "caecda89402a26605ef8db917e8e35621037fe2b9cd731525b8d9e48e336d5eb"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-480.webp",
+      "size": 22284,
+      "sha256": "4242715a97115c17684b86b908750e5a93d78844ee5d2475a84d4253bbcc9940"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-640.avif",
+      "size": 24924,
+      "sha256": "c2e5cddadef3e7f3f4ea9eeef0ab84e342b2541a973f13bdfeeb30701f8c8324"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-640.jpg",
+      "size": 50688,
+      "sha256": "7c4430d36ae6aabb3a06d0b97a7d1cf1acd1a3c880ead1dee6f0cd6bab8fec59"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-640.webp",
+      "size": 36658,
+      "sha256": "ff1e5d954aa9157fed4929ee02848b1be513f58ebc3eea0a5928101fb13f4fee"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-800.avif",
+      "size": 37109,
+      "sha256": "affc0939a2696d01098dfb56b278631945ebaed5a58848f130999c744f9489ef"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-800.jpg",
+      "size": 74209,
+      "sha256": "d403540666fe975f309ce2d79061731c07be3fad4cb8ec46f90f77b84894928b"
+    },
+    {
+      "path": "media/ordinacija-radna-stolica-3.b77203144c-800.webp",
+      "size": 53366,
+      "sha256": "dc3954db52c1947ba59bf715be274f61090d7962ded57d6d369bacd6d82e1f37"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1024.avif",
+      "size": 43974,
+      "sha256": "6feeeb7faed5f14a9d15c96b31965059cd436d56170eacd750cc55dc8b8e87f8"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1024.jpg",
+      "size": 95174,
+      "sha256": "c2512191a4b275f34f1c82b6a0bf9faa52cf60ebceed6dd821080b48d165f090"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1024.webp",
+      "size": 58728,
+      "sha256": "5c2fdc4d771c4c044d0fed95425b21483b8fbd6ac6c830735e312c7d36bb0448"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1280.avif",
+      "size": 58766,
+      "sha256": "b14039b1c5672b338a6675ee300121a80aa11a82440ea3784b8fd902d8d2493c"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1280.jpg",
+      "size": 130200,
+      "sha256": "2273eecb6d01d0ced9bf73a4b3242ca812d1cbcc8fa64a3e73e7fea291e0eec2"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1280.webp",
+      "size": 75608,
+      "sha256": "91ed1d4ec311a85c019885dee4e9bc8338460b299e93df059746bc05b67ce7d2"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1600.avif",
+      "size": 78339,
+      "sha256": "45abf213d19aa76008585f03b8369874e786a10fdab82e21983872f9cdf7209c"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1600.jpg",
+      "size": 178725,
+      "sha256": "a8d479220c0d2df0574a240afb68875ece8a24616720594476447e35fba2476f"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1600.webp",
+      "size": 100566,
+      "sha256": "254f81bcd9dc0da48aa806f48491032276c07b710bb92ca0b468ea6e64246e58"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1920.avif",
+      "size": 100181,
+      "sha256": "685da19b247aedce1110c5d1dd36a14fcce66a58b8199808b2c02f5de0e0b996"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1920.jpg",
+      "size": 233185,
+      "sha256": "2b4289359f07244844c136971c4cb31d87faccaf0e6661a061756721cac98a33"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-1920.webp",
+      "size": 128308,
+      "sha256": "fe9a598783e614c3c5334d54661f8119bf60f753b049488a29f5ffcc0bd308ef"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-2400.avif",
+      "size": 137815,
+      "sha256": "1897cb9a17645d94cff2b6c9e722d6e881617a3a4cd1d7b8024bebac54320747"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-2400.jpg",
+      "size": 325441,
+      "sha256": "69a6cd3d060fee4070a58fbdb2b09d453d5a5bfad5b750ee6077023b3ad0b427"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-2400.webp",
+      "size": 175620,
+      "sha256": "deaefdaeb670f69e53afd725ae8ddb075c24439faac0138e05af2502d0e4f0fd"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-320.avif",
+      "size": 9266,
+      "sha256": "29bcfe41e3e96bf4fe574170b2f1b300e38f7c25ed222dadb0be077fc413d1ab"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-320.jpg",
+      "size": 17755,
+      "sha256": "e0a50261c00b03fe3715246c507c64fa7437badd33a84e22539d9e026bf4c5ee"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-320.webp",
+      "size": 12708,
+      "sha256": "110c28920e8e955a864e295a16f742f837ebbe90056945dbd52666d5b75e937e"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-480.avif",
+      "size": 16097,
+      "sha256": "8371eb1ec325ee6a4ed58525a9b29676ceba8db855a682b4e1a501e01b95fb92"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-480.jpg",
+      "size": 32626,
+      "sha256": "56b64435b58d7970d5bb9a155676aca8ba4b57744f6c72a454b6df9934309f8d"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-480.webp",
+      "size": 21844,
+      "sha256": "b2cfc3bd4aafbbed8dabf5d49982ea6c0804bc2e1fb3217b409cdba33775dfca"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-640.avif",
+      "size": 23745,
+      "sha256": "68c22509353d6158da257a148063b39f102114430ee41f450ad47c2cbb9d7e11"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-640.jpg",
+      "size": 49596,
+      "sha256": "ec770bfa77c752074d875ebc80646052b1fc64657ecdcd759f4755b0eb0ee3ed"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-640.webp",
+      "size": 31914,
+      "sha256": "484da955e267b7260ab4f0874348f8025d884a0cc16e52c5a4e1867e51385bb5"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-800.avif",
+      "size": 31432,
+      "sha256": "080d06635c04b89692b399adfd3adbf198988bb02ced10432330b3b22370a7e4"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-800.jpg",
+      "size": 67634,
+      "sha256": "bb4e25b8dc1aecd55a24ff6b7b8c86ab1ecdb33d34c8d88541249601e77a7ed4"
+    },
+    {
+      "path": "media/ordinacija-stolica.a40b2725b6-800.webp",
+      "size": 42084,
+      "sha256": "a93f7ac5b679b9c3ec9021e9ea42d54050e69b9bea7b17bcd0130e3043e0cc3a"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1024.avif",
+      "size": 54839,
+      "sha256": "816509dd190e5356e7864bf1bd95bb2e7c50f2103a5d52605d849e1b46b1251e"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1024.jpg",
+      "size": 110823,
+      "sha256": "a90dfbcba6bbe70466c082aa8aa394fe8592e0f959fe01a99a6bc6835581afa5"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1024.webp",
+      "size": 73278,
+      "sha256": "62b767c41cc0bc99e7892cd1f0eb608fcbdb58c06017c7b83f89ec8640412bf4"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1280.avif",
+      "size": 74723,
+      "sha256": "c9ee1e2c985c4b0ecd42c32b31a9fa639a14bb92e34f1fec5e4d2b7642d14630"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1280.jpg",
+      "size": 155867,
+      "sha256": "d413e284f61a97409d6a45571f3c5a5d929094f6ad90b69145f0f351d24b32e8"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1280.webp",
+      "size": 100436,
+      "sha256": "03fba79d3b6619a5cd8579ad396cdfc8b46a40452b6eb4ddc0c79d6edffdf37f"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1500.avif",
+      "size": 102451,
+      "sha256": "83b3e977c2b3cb122152fc30da632a347f74b02b5f42002146696123d8c678f7"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1500.jpg",
+      "size": 203775,
+      "sha256": "d7e6898b522fbac9db761b9ac07589dc49b61cabb927cb0df06d85af0d2c877e"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-1500.webp",
+      "size": 126356,
+      "sha256": "cc7345032182433854f52d36967694b8b407080cfc1d2d899b2fc570820d18ec"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-320.avif",
+      "size": 8584,
+      "sha256": "ad8e4404038b49762ba9bc87efe8797d128d430cf57066bd95a474baefbc0ce9"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-320.jpg",
+      "size": 16799,
+      "sha256": "156a68d76d70c439a781df6baf4e7e63ee8f0c50e02180ec31f6c97d85392eda"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-320.webp",
+      "size": 12206,
+      "sha256": "8c9776d31c2fc5e3f8a60f88a26b1f28e200d969e008887957e26212dc9f5122"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-480.avif",
+      "size": 16157,
+      "sha256": "37f340466a14d95205d3827a47be3bceb72efe5441bfc0a0ee95dd1b6170312f"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-480.jpg",
+      "size": 31862,
+      "sha256": "94dec85c57a8b3d0883b468e1399fd14d88bdbe112a5bf169854b64cfca93abc"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-480.webp",
+      "size": 22590,
+      "sha256": "98bbd59ecbcf888d1a2f39900a4dcb3b294ab71c9e474346aad2dd20d19bc2f8"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-640.avif",
+      "size": 26245,
+      "sha256": "33030099e65b3c332ddf4848c55615131b7529b9e3c8f682d7c9844344365c22"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-640.jpg",
+      "size": 51938,
+      "sha256": "315a2e0baf2228f265f0de48260dde5b6e38ae2c2c9c511ef325c81646e76214"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-640.webp",
+      "size": 36528,
+      "sha256": "ccd67471c7d03352c9dfce302e35f149764d73d13b3b61f0b957f8b1e929e8b4"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-800.avif",
+      "size": 37324,
+      "sha256": "69bf0c35ea2c29351ec8dc3bbe0d9936e2831e31120ce3de928ca240a4eddad7"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-800.jpg",
+      "size": 74916,
+      "sha256": "70d446e92b8f3887034eb9bb5efd1dca7b3d65649a82940aeed4a12f09dc401d"
+    },
+    {
+      "path": "media/ordinacija-ulaz.8c6fccf8d8-800.webp",
+      "size": 51844,
+      "sha256": "13fd3ed528c89736cc46132163f91bf2da71786469880b802019f92eacb136d0"
+    },
+    {
+      "path": "robots.txt",
+      "size": 63,
+      "sha256": "6d850c2de5f7736a335e37010d590ebe668ee320fb0847820e30672da40ba157"
+    },
+    {
+      "path": "sitemap.xml",
+      "size": 47369,
+      "sha256": "20a298d140b27eb339fdc70e55e1da44bf2ede46d32f7fb8c42360aa5ca92feb"
+    },
+    {
+      "path": "tretmani/all-on-4/index.html",
+      "size": 21795,
+      "sha256": "ceb344708971935d279192eef6577bdb6a024afb8431f4b0cfd72249f33521c3"
+    },
+    {
+      "path": "tretmani/dijagnostika/index.html",
+      "size": 21173,
+      "sha256": "71d30b8150e313e0ad792e4cce608cc4ec89aed79ae0f3dfef1256370e5274fd"
+    },
+    {
+      "path": "tretmani/dizajn-osmeha/index.html",
+      "size": 23345,
+      "sha256": "0b07d08f168cfdc72b298021be204eab71030cc25a9a46b852bc80261dc05a29"
+    },
+    {
+      "path": "tretmani/endodoncija/index.html",
+      "size": 21563,
+      "sha256": "5cf92418e311d0f2581123536023dddd3d047ffd13d4769ac04b7e0bf0677880"
+    },
+    {
+      "path": "tretmani/implanti/index.html",
+      "size": 23533,
+      "sha256": "c493521587570f79a8daf18acbefbab34980224abe41089add8b1e8efa299693"
+    },
+    {
+      "path": "tretmani/index.html",
+      "size": 46850,
+      "sha256": "269d653f932d8795a65a65ca9a8318e361efda6c0e0880a0537cc077ad40b229"
+    },
+    {
+      "path": "tretmani/izbeljivanje/index.html",
+      "size": 20307,
+      "sha256": "45faf81a48ad682c044194e756346570a4bff0432dffb9d32bf96540050af53d"
+    },
+    {
+      "path": "tretmani/konzervativa/index.html",
+      "size": 21403,
+      "sha256": "95234f6f6490248e1566daef82e11906c70ed2470c2bca8b7c21b29ceeae6290"
+    },
+    {
+      "path": "tretmani/ortodoncija/index.html",
+      "size": 25837,
+      "sha256": "4d0febd70cb891d39020c553b7667b247bd839b3977bb771e0d764739dca9f11"
+    },
+    {
+      "path": "tretmani/parodontologija/index.html",
+      "size": 23480,
+      "sha256": "4343284fdccc7194f0507ff69b4ca172ae93188cba3ffe5c8b705c900c144a86"
+    },
+    {
+      "path": "tretmani/protetika/index.html",
+      "size": 24123,
+      "sha256": "98b4f8e427ebb534e0bcc550107dbcfb349e2bec68c0ff09f974dfc30000658b"
+    },
+    {
+      "path": "tretmani/regeneracija-kosti/index.html",
+      "size": 22886,
+      "sha256": "b64b462996f6ff3480744690420700fe02d0a7c42535835c7f85a68ac5515178"
+    },
+    {
+      "path": "tretmani/terapija-laserom/index.html",
+      "size": 21262,
+      "sha256": "8ae77f08bf932823d1ad04e3a1789472d7aeaef4805e5deca26f7b011f67d321"
+    },
+    {
+      "path": "uploads/all-on-4.jpg",
+      "size": 52252,
+      "sha256": "441c4a40240b4bef24c60b1282d2b57622aec6aafb0ca2353319496bbe49b2e9"
+    },
+    {
+      "path": "uploads/digitalno-planiranje.jpg",
+      "size": 122309,
+      "sha256": "56cca54409244e55cf5ffa40d48693f45c94a12003bc74d2f135b4914757e6fd"
+    },
+    {
+      "path": "uploads/dr-dragoslav-vukovic.jpg",
+      "size": 176738,
+      "sha256": "8d476b97cb9ce88e6fa59a5f254c103819432256db834c7c5288092bad2081c4"
+    },
+    {
+      "path": "uploads/logo-bdh-mark.png",
+      "size": 168137,
+      "sha256": "f3e6b90360a574829ae0ee581f972ebe48700f28c9666642e8dee56789ffea6d"
+    },
+    {
+      "path": "uploads/logo-bdh.jpg",
+      "size": 65343,
+      "sha256": "f8f5c8f7d0f91a1c00b51f61ed47e524f74bfe0bed6b1176b6e58bef1d992df6"
+    },
+    {
+      "path": "uploads/logo-escd.jpg",
+      "size": 136524,
+      "sha256": "fd55fbc88c1ef9ed33116f65c39cdf07cbf7ef8bc180176e734c2c1db0938f55"
+    },
+    {
+      "path": "uploads/ordinacija-cekaonica.jpg",
+      "size": 37326,
+      "sha256": "0efa68edd7a9c666fb3ff0927991c97a66a9cce0058a09356a10fa8b2ecec68d"
+    },
+    {
+      "path": "uploads/ordinacija-cela.jpg",
+      "size": 281342,
+      "sha256": "746be73b95defc39d2c2138e6479705063fab75df137d575ba68c86b0aeb7c04"
+    },
+    {
+      "path": "uploads/ordinacija-labratorija.jpg",
+      "size": 2920880,
+      "sha256": "22caa82f03d350e55b40b58524871e42b4b1bb9a06a763d35b12d344618912f8"
+    },
+    {
+      "path": "uploads/ordinacija-pult.jpg",
+      "size": 276748,
+      "sha256": "5fdd4eef81dc16b7cfcf13d5b3bc22b3d9bc0c9e89f3e083c7c666163a6375ef"
+    },
+    {
+      "path": "uploads/ordinacija-radna-stolica-1.jpg",
+      "size": 4971593,
+      "sha256": "3c792c03b29629f99210c07dae4fe02330fb54b4a67756e9e94dbc5749cb769c"
+    },
+    {
+      "path": "uploads/ordinacija-radna-stolica-2.jpg",
+      "size": 3018784,
+      "sha256": "5ce6997be6f700c25a814d0dbb3195033614b78789b46a2ec263ac9bad5daffd"
+    },
+    {
+      "path": "uploads/ordinacija-radna-stolica-3.jpg",
+      "size": 3367064,
+      "sha256": "b77203144cd88ca4e487eba50db854fbbfd9812d2cd942db52cf6fa4cc6ee0d7"
+    },
+    {
+      "path": "uploads/ordinacija-stolica.jpg",
+      "size": 1614929,
+      "sha256": "a40b2725b66e66a743ce476e0f778be4fa89d83f33a70213f8ad356dc4558286"
+    },
+    {
+      "path": "uploads/ordinacija-ulaz.jpg",
+      "size": 209275,
+      "sha256": "8c6fccf8d8a7eb1d5a4a77ca7eadf032d0b87a7ec8f4220fd5e3de6adb6a16ac"
+    }
+  ]
+}
